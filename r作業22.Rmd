@@ -1,7 +1,7 @@
 ---
-title: "Untitled"
-author: "褚凡瑋"
-date: "2018年11月13日"
+title: "HW2-2"
+author: "顏逢晉"
+date: "2018年11月16日"
 output: html_document
 ---
 ```{r}
